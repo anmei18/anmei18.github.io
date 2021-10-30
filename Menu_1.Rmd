@@ -1,0 +1,14 @@
+---
+title: "Menu 1"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+I love shaved ice!
+
+<img src="images/Shaved_ice.JPG" style="width:75%">
+
+Here's back to the [index](index.html) page.

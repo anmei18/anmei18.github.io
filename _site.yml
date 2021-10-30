@@ -9,7 +9,11 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
-      href: https://github.com/anmei18
+      href: https://github.com/anmei18/
+    - text: Menu
+      menu:
+      - text: I
+        href: menu_1.html
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
